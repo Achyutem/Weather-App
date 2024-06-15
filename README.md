@@ -5,8 +5,8 @@
 
 **Here are few samples -**
 
-![sample](https://github.com/Achyutem/Weather-App/blob/main/Sample1.jpg)
-![sample2](https://github.com/Achyutem/Weather-App/blob/main/Sample3.png)
+![sample](https://github.com/Achyutem/Weather-App/blob/main/Sample1.png)
+![sample2](https://github.com/Achyutem/Weather-App/blob/main/Sample4.png)
 
 ## TODO LIST
 
